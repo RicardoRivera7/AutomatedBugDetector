@@ -34,3 +34,4 @@ Test Site Used: https://the-internet.herokuapp.com/
 <img src="https://i.imgur.com/jzMVy1v.png" height="80%" width="80%" alt="AutoBugDetector"/>
 <br/>
 <br/>
+<a href="C:\Users\DinkDink\Downloads\Bug_Report.html" download>Example Attached HTML Report</a>
