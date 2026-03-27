@@ -24,7 +24,7 @@ Test Site Used: https://the-internet.herokuapp.com/
 <h2>Email Body Output</h2>
 
 <img src="https://i.imgur.com/s9q2Fmv.png" height="80%" width="80%" alt="AutoBugDetector"/>
-<img src="https://i.imgur.com/s9q2Fmv.png" height="80%" width="80%" alt="AutoBugDetector"/>
+<img src="https://i.imgur.com/MQgQ8ZN.png" height="80%" width="80%" alt="AutoBugDetector"/>
 <br/>
 <br/>
 
