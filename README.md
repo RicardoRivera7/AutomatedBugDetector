@@ -22,7 +22,7 @@ Test Site Used: https://the-internet.herokuapp.com/
 docker run -it --rm automated-bug-detector
 
 <h2>Demo</h2>
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/C1gm8Pbg/automatedbugdetector.gif' border='0' alt='automatedbugdetector'></a>
+<img src="assets/automatedbugdetector.gif" width="600" alt="Demo GIF"/>
 
 <h2>Code Snippet of main.py</h2>
 <img src="https://i.imgur.com/LLIpg1z.png" height="80%" width="80%" alt="AutoBugDetector"/>
