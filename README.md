@@ -29,7 +29,7 @@ docker run -it --rm automated-bug-detector
 <img src="https://i.imgur.com/hWq0tpL.png" height="80%" width="80%" alt="AutoBugDetector"/>
 
 <h2>Demo</h2>
-<img src="https://i.imgur.com/k0aE5V8.mp4" height="80%" width="80%" alt="AutoBugDetector"/>
+<img src="https://i.imgur.com/k4QeZiQ.gif" height="80%" width="80%" alt="AutoBugDetector"/>
 
 
 <h2>Email Body Output</h2>
