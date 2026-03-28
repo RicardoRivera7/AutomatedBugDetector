@@ -20,6 +20,13 @@ As an added bonus I dockerized the program and have a requirments.txt file with 
 Test Site Used: https://the-internet.herokuapp.com/
 
 
+<h2>Code Snippet of main.py</h2>
+<img src="https://i.imgur.com/LLIpg1z.png" height="80%" width="80%" alt="AutoBugDetector"/>
+
+<h2>File Structure</h2>
+<img src="https://i.imgur.com/LLIpg1z.png" height="80%" width="80%" alt="AutoBugDetector"/>
+
+
 
 <h2>Email Body Output</h2>
 
@@ -35,3 +42,6 @@ Test Site Used: https://the-internet.herokuapp.com/
 <br/>
 <br/>
 <a href="C:\Users\DinkDink\Downloads\Bug_Report.html" download>Example Attached HTML Report</a>
+
+
+
