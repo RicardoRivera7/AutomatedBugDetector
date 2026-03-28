@@ -3,7 +3,7 @@
 
 <h2>Description</h2>
 
-A Python Program that utilizes Beautiful Soup to detect broken links, broken images, and measures reponse times for getting the web pages to load. 
+A Python Program that utilizes Beautiful Soup to detect broken links, broken images, and measures response times for getting the web pages to load. 
 It then automatically compiles all of these into a generated html report and sends the report to your email in both the body and as an attachment you can download.
 Utilizes a Web crawler to go through as many links as you want on the page.
 
