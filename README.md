@@ -1,4 +1,4 @@
-# AutomatedBugDetector
+# Automated Bug Detector
 
 
 <h2>Description</h2>
