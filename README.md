@@ -28,22 +28,22 @@ docker run -it --rm automated-bug-detector
 <img src="https://i.imgur.com/LLIpg1z.png" height="80%" width="80%" alt="AutoBugDetector"/>
 
 <h2>File Structure</h2>
-<img src="https://i.imgur.com/hWq0tpL.png" height="80%" width="80%" alt="AutoBugDetector"/>
+<img src="https://i.imgur.com/hWq0tpL.png" height="40%" width="40%" alt="AutoBugDetector"/>
 
 
 
 
 <h2>Email Body Output</h2>
 
-<img src="https://i.imgur.com/s9q2Fmv.png" height="80%" width="80%" alt="AutoBugDetector"/>
-<img src="https://i.imgur.com/MQgQ8ZN.png" height="80%" width="80%" alt="AutoBugDetector"/>
+<img src="https://i.imgur.com/s9q2Fmv.png" height="40%" width="40%" alt="AutoBugDetector"/>
+<img src="https://i.imgur.com/MQgQ8ZN.png" height="40%" width="40%" alt="AutoBugDetector"/>
 <br/>
 <br/>
 
 
 <h2>Email Attachment Output</h2>
 
-<img src="https://i.imgur.com/jzMVy1v.png" height="80%" width="80%" alt="AutoBugDetector"/>
+<img src="https://i.imgur.com/jzMVy1v.png" height="50%" width="50%" alt="AutoBugDetector"/>
 <br/>
 <br/>
 <a href="C:\Users\DinkDink\Downloads\Bug_Report.html" download>Example Attached HTML Report</a>
