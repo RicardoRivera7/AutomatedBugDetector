@@ -9,6 +9,7 @@ Utilizes a Web crawler to go through as many links as you want on the page.
 
 As an added bonus I dockerized the program and have a requirments.txt file with all external libraries needed to run.
 
+To run it in Docker: docker run -it --rm automated-bug-detector
 
 <h2>Tools</h2>
 
@@ -19,10 +20,11 @@ As an added bonus I dockerized the program and have a requirments.txt file with 
 
 Test Site Used: https://the-internet.herokuapp.com/
 
-docker run -it --rm automated-bug-detector
-
 <h2>Demo</h2>
 <img src="assets/automatedbugdetector.gif" width="600" alt="Demo GIF"/>
+
+<h2>Docker Demo</h2>
+<img src="assets/automatedbugdetectorDocker.gif" width="600" alt="Demo GIF"/>
 
 <h2>Code Snippet of main.py</h2>
 <img src="https://i.imgur.com/LLIpg1z.png" height="80%" width="80%" alt="AutoBugDetector"/>
