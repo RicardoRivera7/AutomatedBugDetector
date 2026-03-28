@@ -21,6 +21,8 @@ Test Site Used: https://the-internet.herokuapp.com/
 
 docker run -it --rm automated-bug-detector
 
+<h2>Demo</h2>
+<img src="https://i.postimg.cc/C1gm8Pbg/automatedbugdetector.gif" height="80%" width="80%" alt="AutoBugDetector"/>
 
 <h2>Code Snippet of main.py</h2>
 <img src="https://i.imgur.com/LLIpg1z.png" height="80%" width="80%" alt="AutoBugDetector"/>
@@ -28,8 +30,7 @@ docker run -it --rm automated-bug-detector
 <h2>File Structure</h2>
 <img src="https://i.imgur.com/hWq0tpL.png" height="80%" width="80%" alt="AutoBugDetector"/>
 
-<h2>Demo</h2>
-<img src="https://i.imgur.com/q8SzXV8.gif" height="80%" width="80%" alt="AutoBugDetector"/>
+
 
 
 <h2>Email Body Output</h2>
